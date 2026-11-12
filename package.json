@@ -2,6 +2,14 @@
   "name": "ink-bleed-toggle",
   "private": true,
   "version": "0.0.0",
+  "description": "A Codemure concept project demonstrating an ink-spread light and dark theme transition.",
+  "license": "MIT",
+  "author": "Codemure",
+  "homepage": "https://www.codemure.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codemure-official/ink-bleed-theme-changer.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
